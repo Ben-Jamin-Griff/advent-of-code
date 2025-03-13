@@ -3,4 +3,8 @@ name = "day-2"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "dat-2"
+path = "main.rs"
+
 [dependencies]
